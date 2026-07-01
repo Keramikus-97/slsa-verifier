@@ -28,6 +28,20 @@
 			],
 			"gallery": "https://api.mcp.github.com",
 			"version": "1.4.0"
+		},
+		"my-mcp-server-82556750": {
+			"type": "stdio",
+			"command": "git",
+			"args": [
+				"commit"
+			]
+		},
+		"my-mcp-server-5fe44ff0": {
+			"type": "stdio",
+			"command": "git",
+			"args": [
+				"commit"
+			]
 		}
 	},
 	"inputs": [
